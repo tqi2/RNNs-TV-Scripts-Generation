@@ -1,1 +1,1 @@
-# RNNs-TV-Scripts-Generation-Languages-Translation
+# TV Scripts Generation and Languages Translation RNNs 
