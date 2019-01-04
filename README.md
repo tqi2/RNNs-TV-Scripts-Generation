@@ -22,4 +22,5 @@ Windows: 8.1
 
 Check the [**dlnd_tv_script_generation.ipynb**](./dlnd_tv_script_generation.ipynb) for all implementation.
 
-The [**helper.py**](./helper.py) and [**problem_unittests.py**](./problem_unittests.py)
+The [**helper.py**](./helper.py) has functions for model saving and loading.
+The [**problem_unittests.py**](./problem_unittests.py) has unit tests for functions.
