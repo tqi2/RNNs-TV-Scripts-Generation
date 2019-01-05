@@ -47,7 +47,7 @@ hoyt: i don't know.
 # Deliverable
 Check the [**dlnd_tv_script_generation.ipynb**](./dlnd_tv_script_generation.ipynb) for all implementation.
 
-Check the 5 example generated script in [example](./example) folder.
+Check the 5 example generated script in [**example**](./example) folder.
 
 The [**helper.py**](./helper.py) has functions for model saving and loading.
 
